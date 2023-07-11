@@ -1,3 +1,5 @@
+![alt text](https://github.com/warsab/US_ARRESTS/blob/main/usarrests_img.png?raw=true)
+
 # US_ARRESTS 1979 [PCA]
 #### &#10148; Data Set Summary:
 `This dataset is a collection of statistical data containing arrests made in 1973 within  US States. The fields contain arrests based off murder, assualt and rape. This data is per 100,000 arrests.🌿`  
