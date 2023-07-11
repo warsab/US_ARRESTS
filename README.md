@@ -55,7 +55,6 @@ Original Dataset can be found <a href="https://www.kaggle.com/code/kerneler/star
 ## &#10064;Contributors Info:
 > *Anyone can use the dataset to create further data analysis|visualistaions and to look at different views and scope of dataset
 
-- Original Dataset can be found <a href="https://data.world/quanticdata/mental-health-in-tech-survey/workspace/file?filename=survey.csv">HERE</a> 
 - Raw Data is can be found within the Jupyter notebook for the project
 - Python modules required:
   * Pandas
